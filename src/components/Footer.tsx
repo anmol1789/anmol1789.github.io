@@ -11,7 +11,7 @@ const Footer = () => {
               Anmol Upadhyay
             </h3>
             <p className="text-portfolio-description-text">
-              Full Stack Developer
+              MERN Stack Developer
             </p>
           </div>
 

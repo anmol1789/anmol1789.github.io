@@ -8,24 +8,24 @@ const ProjectsSection = () => {
   const projects = [
     {
       id: 1,
-      title: 'XCODE',
-      description: 'A modern and stylish developer-focused landing page built using React, Tailwind CSS, and Spline for 3D elements',
+      title: 'Prime Token Exchange',
+      description: 'Token Exchange Platform Seamlessly swap, trade, and manage your digital assets in real time. Powered by Andromeda OS for lightning-fast, secure, and decentralized transactions.',
       image: xcodeProject,
-      technologies: ['React', 'Tailwind CSS', 'JavaScript'],
+      technologies: ['Web3', 'Andromeda OS', 'React', 'Tailwind CSS', 'JavaScript'],
       links: {
-        github: 'https://github.com/yourusername/xcode', // Update with your GitHub link
-        live: 'https://your-xcode-demo.com' // Update with your live demo link
+        github: '//https://github.com/anmol1789/Prime-Token-Exchange', // Update with your GitHub link
+        live: 'https://embeddables.testnet.andromedaprotocol.io/constantine-3/tpt-token-exchange-dapp' // Update with your live demo link
       }
     },
     {
       id: 2,
-      title: 'Nexora',
+      title: 'Disaster Management and Coordination Platform',
       description: 'Nexora is a modern, responsive web application built with React, Vite, and Tailwind CSS. It aims to deliver a clean UI, fast performance.',
       image: nexoraProject,
-      technologies: ['React', 'Tailwind CSS', 'JavaScript'],
+      technologies: ['HTML','React Js', 'Tailwind CSS', 'JavaScript'],
       links: {
-        github: 'https://github.com/yourusername/nexora', // Update with your GitHub link
-        live: 'https://your-nexora-demo.com' // Update with your live demo link
+        github: 'https://github.com/NostalgicWinters/Disaster-Awareness-and-Management--DAM-', // Update with your GitHub link
+        
       }
     }
   ];

@@ -16,13 +16,13 @@ const IntroSection = () => {
         </h1>
         
         <p className="text-xl md:text-2xl text-portfolio-description-text mb-8 max-w-3xl mx-auto leading-relaxed">
-          A Full Stack Developer passionate about crafting seamless digital experiences
+          A MERN Stack Developer passionate about crafting seamless digital experiences.
         </p>
         
         <div className="text-lg text-portfolio-description-text mb-8 max-w-2xl mx-auto">
           <p>
-            I specialize in building web apps with{' '}
-            <span className="text-foreground font-semibold">React, JavaScript, Tailwind CSS, Node.js</span>{' '}
+            I am specializing in building, industry relevant scalable projects using {' '}
+            <span className="text-foreground font-semibold">React, JavaScript, Tailwind CSS, Web3 with Blockchain Technology </span>{' '}
             and more. Always excited to tackle new challenges where I can create value and grow as a coder. 
             Let's connect if you've got a project that could use my skills!
           </p>

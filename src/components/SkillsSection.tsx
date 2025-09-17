@@ -15,8 +15,6 @@ const SkillsSection = () => {
       title: 'Frameworks',
       skills: [
         { name: 'React', color: 'text-cyan-400' },
-        { name: 'Node.js', color: 'text-green-400' },
-        { name: 'Express', color: 'text-gray-400' },
         { name: 'TailwindCSS', color: 'text-teal-400' },
       ]
     },
