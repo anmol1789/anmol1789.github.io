@@ -20,7 +20,7 @@ const ProjectsSection = () => {
     {
       id: 2,
       title: 'Disaster Management and Coordination Platform',
-      description: 'Nexora is a modern, responsive web application built with React, Vite, and Tailwind CSS. It aims to deliver a clean UI, fast performance.',
+      description: 'The Local Disaster Response Coordination Platform is a mobile and web application aimed at improving disaster response efforts. The platform allows users within a specific region to report disasters such as floods, earthquakes, and other emergencies. The app enables users to share crucial information, resources, and coordinate rescue operations to facilitate effective disaster management. By leveraging real-time data, this platform helps users stay informed, offer aid, and assist in emergency evacuations.',
       image: nexoraProject,
       technologies: ['HTML','React Js', 'Tailwind CSS', 'JavaScript'],
       links: {
