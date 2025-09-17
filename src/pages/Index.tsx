@@ -2,6 +2,7 @@ import Navigation from '@/components/Navigation';
 import IntroSection from '@/components/IntroSection';
 import SkillsSection from '@/components/SkillsSection';
 import ProjectsSection from '@/components/ProjectsSection';
+import Footer from '@/components/Footer';
 
 const Index = () => {
   return (
@@ -10,6 +11,7 @@ const Index = () => {
       <IntroSection />
       <SkillsSection />
       <ProjectsSection />
+      <Footer />
     </div>
   );
 };
